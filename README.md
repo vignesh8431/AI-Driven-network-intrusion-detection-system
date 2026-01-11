@@ -1,4 +1,4 @@
-# AI-Driven-network-intrusion-detection-system
+# AI-Driven-network-intrusion-detection-and-prevention-system
 
 This project presents an "AI-powered, real-time Network Intrusion Detection and Prevention System (NIDPS)" designed to protect hosts and small networks from cyber threats. It leverages unsupervised machine learning—specifically the Isolation Forest algorithm—to detect anomalous network behavior without relying on predefined attack signatures, enabling it to identify zero-day and polymorphic attacks.
 
